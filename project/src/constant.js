@@ -1,1 +1,1 @@
-console.log();
+export const DB_NAME = "shubham"
